@@ -1,0 +1,5 @@
+{
+    "spike_threshold": 3,
+    "warning_temperature": 0.0152,
+    "critical_temperature": 0.0155
+}
